@@ -1,1 +1,1 @@
-# MyNetScanner python kod ile yazılmış network tarama fanksiyonu içerir
+# MyNetScanner includes network scanning function written in python code
